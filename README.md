@@ -4,9 +4,6 @@
 - Hope this will helps and benefits to yall~
 
 ## Demo link
-[WEBP to JPG](https://webp2jpg-tvzhudavjgrkgnnvtqsrf4.streamlit.app/)
-
-
 <a href="https://webp2jpg-tvzhudavjgrkgnnvtqsrf4.streamlit.app/" target="_blank">Open WebP to JPG</a>
 
 
