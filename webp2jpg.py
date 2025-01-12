@@ -14,7 +14,7 @@ def main():
     st.write("Upload your image, and we'll convert it to JPG format for you!")
 
     # File uploader widget
-    uploaded_file = st.file_uploader("Choose an image file", type=["png", "jpeg", "jpg", "bmp", "gif"])
+    uploaded_file = st.file_uploader("Choose an image file", type=["webp", "png", "jpeg", "jpg", "bmp", "gif"])
 
     if uploaded_file is not None:
         # Display the uploaded image
